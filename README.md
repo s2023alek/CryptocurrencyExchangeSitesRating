@@ -14,13 +14,13 @@
 ### страница валюты:  
 ![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/5564641af39312b0853d65de8bce7050c6806420/README/screenshot_4.png)
 
-страница биржи:  
+### страница биржи:  
 ![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/75d3e6d97762c8ec2dca258fb542cf161293d6f2/README/Screenshot_3.png)
 
-список бирж:  
+### список бирж:  
 ![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/75d3e6d97762c8ec2dca258fb542cf161293d6f2/README/Screenshot_2.png)
 
-список валют:  
+### список валют:  
 ![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/75d3e6d97762c8ec2dca258fb542cf161293d6f2/README/Screenshot_1.png)
 
 
