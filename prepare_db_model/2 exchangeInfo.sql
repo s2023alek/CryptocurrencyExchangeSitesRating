@@ -1,0 +1,19 @@
+CREATE TABLE `exchange_info` (
+
+`id` INT(10) NOT NULL AUTO_INCREMENT ,
+`urlPTitle` VARCHAR(255) NOT NULL ,
+
+`title` VARCHAR(255) NOT NULL ,
+`imageUrl` VARCHAR(255) NOT NULL ,
+`created` DATETIME,
+
+
+`oUSD` VARCHAR(20) NOT NULL ,
+`np` VARCHAR(10) NOT NULL ,
+`wsu` VARCHAR(255) NOT NULL ,
+
+PRIMARY KEY (`id`),
+UNIQUE (`urlPTitle`)
+
+) ENGINE = InnoDB;
+ALTER TABLE `exchange_info` CHANGE `created` `created` DATETIME NULL DEFAULT CURRENT_TIMESTAMP;

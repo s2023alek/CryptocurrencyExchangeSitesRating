@@ -1,0 +1,12 @@
+CREATE TABLE `coin_ref_url_list` (
+
+`id` INT(10) NOT NULL AUTO_INCREMENT ,
+`urlPTitle` VARCHAR(255) NOT NULL ,
+
+`b` VARCHAR(255) NOT NULL ,
+`ex` VARCHAR(255) NOT NULL ,
+`bb` VARCHAR(255) NOT NULL ,
+
+PRIMARY KEY (`id`),
+UNIQUE (`urlPTitle`)
+) ENGINE = InnoDB;

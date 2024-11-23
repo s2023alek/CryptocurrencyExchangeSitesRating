@@ -1,0 +1,85 @@
+/* OVERRIDES */
+.eoc-logo-list {
+    height: 1em;
+}
+.ta td, .ta th {
+    padding: 3px 14px !important;
+    word-break: keep-all !important;
+}
+
+.ws {
+    width: .5em;
+    display: inline-block;
+}
+
+/*override interactive tables styles*/
+.ta-search-container {
+    display: none !important;
+}
+
+.ta.sortable th:not(.ta-checkbox-column, [data-unsortable=""])[data-asc="false"]::after, .ta.sortable th:not(.ta-checkbox-column, [data-unsortable=""])[data-asc="true"]::before {
+    background-color: #151415 !important;
+}
+
+.ta.sortable th:not(.ta-checkbox-column, [data-unsortable=""])::after, .ta.sortable th:not(.ta-checkbox-column, [data-unsortable=""])::before {
+    background-color: #667dd0 !important;
+}
+
+
+@font-face {
+    font-family: "myfont";
+    src: url("fonts/fontawesome-webfont.woff2") format('woff');
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("fonts/fontawesome-webfont.woff2") format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("fonts/fontawesome-webfont.woff2") format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("fonts/fontawesome-webfont.woff2") format('woff');
+    font-style: italic;
+}
+
+footer {
+    padding: 0 10px 0 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    padding-bottom: 15px;
+}
+header {
+    padding: 0 10px 0 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+}
+
+header>h1 {
+    text-align:center;
+}
+
+.page-content {
+    padding: 0 10px 0 10px;
+}
+
+.main-menu {
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
