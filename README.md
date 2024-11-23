@@ -11,7 +11,7 @@
 точная копия rucoinmarketcap.com с улучшениями  
 данный проект не работает с платными API. вместо этого курсы криптовалют парсятся периодически с других сайтов  
 
-страница валюты:  
+### страница валюты:  
 ![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/5564641af39312b0853d65de8bce7050c6806420/README/screenshot_4.png)
 
 страница биржи:  
